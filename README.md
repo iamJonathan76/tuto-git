@@ -1,3 +1,3 @@
 # tutoriel
 
-ceco est un tutoriel pour la chaine getcodingknowledge
+ceci est un tutoriel pour la chaine getcodingknowledge
